@@ -3,6 +3,11 @@
 🎓 Final-year B.Tech student in Computer Science and Engineering at Graphic Era Hill University.
 <br>👨‍💻 Motivated and determined tech enthusiast with a passion for creating innovative and efficient solutions. 
 
+# Hello World!, I'm Om Bijalwan ,a Full-Stack Web Developer:
+🎓 Final-year B.Tech student in Computer Science and Engineering at Graphic Era Hill University.<br>👨‍💻 Motivated and determined tech enthusiast with a passion for creating innovative and efficient solutions. 
+<br>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_bijalwan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-bijalwan-593b2b324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ombijalwan18@gmail.com) 
 
