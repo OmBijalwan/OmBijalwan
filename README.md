@@ -1,7 +1,5 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
-# Hello World!, I'm Om Bijalwan ,a Full-Stack Web Developer:
-🎓 Final-year B.Tech student in Computer Science and Engineering at Graphic Era Hill University.
-<br>👨‍💻 Motivated and determined tech enthusiast with a passion for creating innovative and efficient solutions. 
+
 
 # Hello World!, I'm Om Bijalwan ,a Full-Stack Web Developer:
 🎓 Final-year B.Tech student in Computer Science and Engineering at Graphic Era Hill University.<br>👨‍💻 Motivated and determined tech enthusiast with a passion for creating innovative and efficient solutions. 
